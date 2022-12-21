@@ -6,7 +6,7 @@
   <description>ROS2 services for images and segmentation</description>
   <author email="ronca.pat@gmail.com">Patrick Roncagliolo</author>
   <maintainer email="ronca.pat@gmail.com">Patrick Roncagliolo</maintainer>
-  <license>proprietary</license>
+  <license>LGPLv3</license>
   
   <depend>builtin_interfaces</depend>
   <depend>sensor_msgs</depend>
