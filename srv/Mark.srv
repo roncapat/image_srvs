@@ -1,0 +1,8 @@
+uint32 id
+string class_name
+visualization_msgs/UVCoordinate[] locations
+---
+bool success
+string message
+
+#Ref: https://github.com/ros2/common_interfaces/blob/rolling/visualization_msgs/msg/UVCoordinate.msg
